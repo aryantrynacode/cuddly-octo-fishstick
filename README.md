@@ -58,7 +58,7 @@ Check out [Vocal for Transcripting,Summarization,Question and Answering](https:/
 
 **QNA** 
 **Summarization** 
-![Screenshot](Screenshot161043.png)
+![Screenshot](assets/Screenshot161043.png)
 
 ---
 # Run the app
