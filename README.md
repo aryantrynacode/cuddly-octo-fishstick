@@ -1,6 +1,6 @@
 # 🎤 Vocal - AI-Powered Audio Assistant
 
-Check out [Vocal for Transcripting,Summarization,Question and Answering](https://www.google.com) .
+Check out [Vocal for Transcripting,Summarization,Question and Answering](https://vocal-transcript-sum-qna.streamlit.app) .
 
 **Vocal** is an AI-powered application that allows you to **transcribe audio**, **summarize content**, and **ask questions** about your audio files. Built with **ChatGPT and Gemini API**, it brings the power of advanced AI to your fingertips.  
 
