@@ -9,7 +9,7 @@ from google import genai
 # -------------------- Load API Key --------------------
 
 api_key = st.secrets.get("GOOGLE_API_KEY")  # safer using .get()
-if not API_KEY:
+if not api_key:
     st.error("Google API key not found. Please set GOOGLE_API_KEY in Streamlit secrets.")
     st.stop()
 
