@@ -1,7 +1,7 @@
 # 🎤 Vocal - AI-Powered Audio Assistant
 
 
-![Vocal Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+![Vocal Banner]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://lottiefiles.com/free-animation/microphone-click-to-record-DbYKAsnlL7))  
 
 Check out [Vocal](https://www.google.com) for Transcripting , Summarization , Question and Answering.
 
