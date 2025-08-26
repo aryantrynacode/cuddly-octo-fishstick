@@ -46,19 +46,19 @@ Check out [Vocal for Transcripting,Summarization,Question and Answering](https:/
 ## 📸 Screenshots / GIFs
 
 **Uploading Audio:**  
-![Screenshot](assets/Screenshot 2025-08-26 161000.png)
+![Screenshot](assets/Screenshot161000.png)
  
 
 **Transcription in Action:**  
-![Screenshot](assets/Screenshot 2025-08-26 160945.png)
+![Screenshot](assets/Screenshot160945.png)
   
 
 **Summarization**  
-![Screenshot](assets/Screenshot 2025-08-26 161021.png)
+![Screenshot](assets/Screenshot161021.png)
 
 **QNA** 
 **Summarization** 
-![Screenshot](Screenshot 2025-08-26 161043.png)
+![Screenshot](Screenshot161043.png)
 
 ---
 # Run the app
