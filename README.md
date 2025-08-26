@@ -21,7 +21,7 @@ Check out [Vocal for Transcripting,Summarization,Question and Answering](https:/
 | Layer                  | Technology |
 |------------------------|------------|
 | **Frontend**           | Streamlit |
-| ** NLP**               | OpenAI ChatGPT + Gemini API |
+| ** NLP**               |  Gemini API |
 | **Audio Processing**   | PyMuPDF / pdfplumber / Pydub |
 | **Hosting**            | Streamlit Cloud |
 
