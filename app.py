@@ -4,13 +4,13 @@ from utils.transcription import transcribe_audio
 from utils.summarization import summarize_text
 from utils.qna import ask_question
 from google import genai
-from dotenv import load_dotenv
+
 
 # -------------------- Load API Key --------------------
-load_dotenv()
-API_KEY = os.getenv("GOOGLE_API_KEY")
+
+api_key = st.secrets.get("GOOGLE_API_KEY")  # safer using .get()
 if not API_KEY:
-    st.error("Google API key not found. Please set GOOGLE_API_KEY in your environment or .env file.")
+    st.error("Google API key not found. Please set GOOGLE_API_KEY in Streamlit secrets.")
     st.stop()
 
 client = genai.Client(api_key=API_KEY)
