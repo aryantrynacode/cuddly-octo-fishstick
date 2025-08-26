@@ -2,7 +2,7 @@ import streamlit as st
 from google import genai
 from google.genai import types
 
-api_key = st.secrets["GOOGLE_API_KEY"]
+api_key = st.secrets.get["GOOGLE_API_KEY"]
 client = genai.Client(api_key=api_key)
 
 def transcribe_audio(file_path: str) -> str:
