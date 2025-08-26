@@ -46,13 +46,19 @@ Check out [Vocal for Transcripting,Summarization,Question and Answering](https:/
 ## 📸 Screenshots / GIFs
 
 **Uploading Audio:**  
-![Uploading Audio](https://media.giphy.com/media/l4EoX4uJ6Fq2O3j1K/giphy.gif)  
+![Screenshot](assets/Screenshot 2025-08-26 161000.png)
+ 
 
 **Transcription in Action:**  
-![Transcription](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+![Screenshot](assets/Screenshot 2025-08-26 160945.png)
+  
 
-**Summarization & QnA:**  
-![QnA](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)  
+**Summarization**  
+![Screenshot](assets/Screenshot 2025-08-26 161021.png)
+
+**QNA** 
+**Summarization** 
+![Screenshot](Screenshot 2025-08-26 161043.png)
 
 ---
 # Run the app
