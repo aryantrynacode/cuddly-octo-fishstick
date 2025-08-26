@@ -1,6 +1,6 @@
 streamlit
 google-genai
-dotenv
+python-dotenv
 
 
 
