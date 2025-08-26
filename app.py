@@ -13,7 +13,7 @@ if not api_key:
     st.error("Google API key not found. Please set GOOGLE_API_KEY in Streamlit secrets.")
     st.stop()
 
-client = genai.Client(api_key=API_KEY)
+client = genai.Client(api_key=api_key)
 
 # -------------------- Page Setup --------------------
 st.set_page_config(
